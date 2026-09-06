@@ -1,6 +1,6 @@
 # My project brief
 ## The question
-How accessible is each Settlment area in owerri west to a health facilities?
+How accessible is each settlement area in Owerri West to health facilities?
 
 ## Why it matters
 Access to health facilties is important because it directly affects how quick residents receieve medical care, especially during emergencies. 
