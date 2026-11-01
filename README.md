@@ -16,3 +16,4 @@ See project-brief.md for the full brief.
 - Week 6: Set up UV, added pandas, created check.py, used UV to run the code, and check.py prints pandas version.
 - Week 7: Learned the six ideas, created analyse.py and wards.csv, used UV to run the code, it reads, converts area and also classifies the wards.
 - Week 8: Inspect_data.py summarizes areas_km2 and populations using 2006 census in mywards.csv data.
+- Week 9: I understand what variables, list and types but i need to study more to undertand the loop, conditon and functions fully. My capstone summarized my month 1 data into areas_km2 and population and it marches with my data accurately.
